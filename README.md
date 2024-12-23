@@ -1,1 +1,1 @@
-# -visilant-image-upload-azure-function
+# visilant-image-upload-azure-function
